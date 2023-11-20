@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-belajar github sangat menyenangkan updated
+belajar github sangat menyenangkan
